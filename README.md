@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=182B3A$height=200&text=Gyu%20Git&fontAlign=50&stroke=00FF00)
+![header](https://capsule-render.vercel.app/api?type=venom&color=182B3A$height=200&text=Hoon%20Git&fontAlign=50&stroke=00FF00)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgu-ri&count_bg=%230002FF&title_bg=%23FFFFFF&icon=smugmug.svg&icon_color=%23004CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 <h3 align="center">💫  Hi, I’m @SangHoon 💫</h3>
 
