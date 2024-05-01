@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://www.instagram.com/sanghoon_lee_edw?igsh=MTJ6dDhia2tyZzNnYw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanghoon_lee_edw?igsh=MTJ6dDhia2tyZzNnYw==/"/></a>&nbsp
 </p>
-<!---
+
 Igu-ri/Igu-ri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 
@@ -81,7 +81,6 @@ You can click the Preview link to take a look at your changes.
 </a>
 </div>
 
--->
 
 <div align="center">
 
