@@ -88,7 +88,7 @@ You can click the Preview link to take a look at your changes.
 
 -->
 
-<div align="left">
+<div align="center">
 
 ## 🎥 Histories <br>
 <!-- <div align="center"> -->
@@ -125,10 +125,11 @@ You can click the Preview link to take a look at your changes.
 |*JSP게시판* &nbsp; | |
 |*React+SpringBoot 풀스택* &nbsp; | |
 
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon1229&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon1229&layout=compact)
 
 </div>
 </details>
 
-![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon1229&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon1229&layout=compact)
-| ------------- | ------------- |
+
+
