@@ -129,5 +129,5 @@ You can click the Preview link to take a look at your changes.
 </div>
 </details>
 
-|[![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon1229&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/hoon1229)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon1229&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
+![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon1229&show_icons=true&theme=radical)
 | ------------- | ------------- |
