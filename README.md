@@ -1,33 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=182B3A$height=200&text=Hoon%20Git&fontAlign=50&stroke=00FF00)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIgu-ri&count_bg=%230002FF&title_bg=%23FFFFFF&icon=smugmug.svg&icon_color=%23004CFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-<h3 align="center">💫  Hi, I’m @SangHoon 💫</h3>
-
-<h3 align="center">📚 Tech Stack 📚</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <br>
-  <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-</p>
-
-<h3 align="center">💌Email💌</h3>
-<p align="center">thsrang@gmail.com</p>
-<h3 align="center">✨SNS✨</h3>
-<p align="center">
-  <a href="https://www.instagram.com/sanghoon_lee_edw?igsh=MTJ6dDhia2tyZzNnYw=="><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/sanghoon_lee_edw?igsh=MTJ6dDhia2tyZzNnYw==/"/></a>&nbsp
-</p>
-
-Igu-ri/Igu-ri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
-  
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20byeongseok%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
----
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20sanghoon%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&r
 
 
 
