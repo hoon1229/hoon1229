@@ -39,20 +39,6 @@
 
 <hr>
 
-
-<!-- [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon) -->
-
-<!--
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690984961126?alt=media&token=39aa059b-8452-428b-979c-ac751eff9e27)](https://github.com/msdio/stackticon)
--->
-
-<!-- <div style="text-align: center;">
-<a href="https://github.com/msdio/stackticon">
-  <img src="https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a" alt="stackticon" width="700px"/>
-</a>
-</div>
-
-
 <div align="center">
 
 ## 🎥 Histories <br>
@@ -76,9 +62,9 @@
 #### 👨‍👩‍👦‍👦 Team
 | Project | Adress |
 |---|---|
- |||
- |||
- |||
+|Final Project||
+|Second Project||
+|First Project||
 
 
 
@@ -86,9 +72,8 @@
 
 | Project | Adress |
 |---|---|
-|*자바게시판* &nbsp; | |
-|*JSP게시판* &nbsp; | |
-|*React+SpringBoot 풀스택* &nbsp; | |
+|JPA Shop | |
+|React 쇼핑몰 만들기| |
 
 ![Hoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoon1229&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoon1229&layout=compact)
