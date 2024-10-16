@@ -13,14 +13,16 @@
   
   <br/>
 
-  <h3 align="center">🍳 Side Solo Project 🍳</h3>
+<h3 align="center">🍳 Side Solo Project 🍳</h3>
 
 <div align="center">
 
-| 프로젝트명 | 설명 | Back 스택 요약 | Front 스택 요약 |
-|:----------:|:----:|:--------------:|:---------------:|
-| Spring JPA Shop | Spring JPA를 활용한 쇼핑몰 | Spring Boot, JPA | Thymeleaf |
-| React 쇼핑몰 만들기 | React를 활용한 쇼핑몰 | Spring Boot | React |
+| 프로젝트명 | 설명 | Back 스택 요약 | Front 스택 요약 | 보러가기 |
+|:----------:|:----:|:--------------:|:---------------:|:--------:|
+| Spring JPA Shop | Spring JPA를 활용한 쇼핑몰 | Spring Boot, JPA | Thymeleaf |   |
+| React 쇼핑몰 만들기 | React를 활용한 쇼핑몰 | Spring Boot | React |   |
+
+</div>
 
 </div>
   <br/>
