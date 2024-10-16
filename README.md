@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20sanghoon%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&r)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20Sanghoon%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer&r)
 <div align="center">
 
 <h3 align="center">🍳 Team Project 🍳</h3>
